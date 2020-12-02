@@ -1,0 +1,1 @@
+C:\Users\radio\Documents\projects\Eth-2.0-Validator-Monitor\eth2validatormonitor\eth2validatormonitor.csproj;arm
