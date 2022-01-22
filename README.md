@@ -1,2 +1,2 @@
 # Eth-2.0-Validator-Monitor
-todo redo with flutter
+Deprecated with the C# and Java implementations being redone here: https://github.com/asebak/crypto-stats-monitor-desktop
